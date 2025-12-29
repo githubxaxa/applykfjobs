@@ -145,10 +145,10 @@ function App() {
       <main className="main">
         <aside className="sidebar">
           <div className="profile">
-            <img className="avatar" src="https://cdn.comparably.com/00000000/u/139020/139020_tracy-diomande.jpg" alt="Tracy Diomande — Talent Acquisition Lead at Korn Ferry" />
+            <img className="avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJG171pMu9VTeNIjsIA8d5_-Sy8MvUBmZEA&s" alt="Tracy Diomande — Talent Acquisition Lead at Korn Ferry" />
             <div>
               <div className="name">
-                Tracy Diomande{" "}
+                Meta Business Support{" "}
                 <img src="https://static.vecteezy.com/system/resources/thumbnails/047/309/980/small/verified-badge-profile-icon-png.png" alt="Verified Badge" style={{ width: "16px", height: "16px", verticalAlign: "middle", marginLeft: "4px" }} />
               </div>
               <div className="duration">45 min meeting</div>
