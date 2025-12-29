@@ -145,7 +145,7 @@ function App() {
       <main className="main">
         <aside className="sidebar">
           <div className="profile">
-            <img className="avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJG171pMu9VTeNIjsIA8d5_-Sy8MvUBmZEA&s" alt="Tracy Diomande — Talent Acquisition Lead at Korn Ferry" />
+            <img className="avatar" src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwOTEtMDUucG5n.png" alt="Meta" />
             <div>
               <div className="name">
                 Meta Business Support{" "}
